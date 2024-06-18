@@ -9,3 +9,6 @@ pull successed
 
 the local file to edit.
 try to push the number file to web
+
+push successed
+try to edit date file on the github internet.
